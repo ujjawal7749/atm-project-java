@@ -1,8 +1,8 @@
 # atm-project-java
 GUI ATM Application made in Java
 <br>
-<p>
+<pre>
 How to run -
   Load all the files to NetBeans
   Run Main.java
-<p>
+</pre>
